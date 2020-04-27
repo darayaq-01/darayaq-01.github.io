@@ -1,3 +1,3 @@
 # my-website
 
-[Link to my site](darayaq.github.io)
+[Link to my site](https://darayaq.github.io)
